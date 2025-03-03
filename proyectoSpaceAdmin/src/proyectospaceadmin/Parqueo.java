@@ -12,4 +12,9 @@ public class Parqueo {
     private String space;
    
     
+    
+    public void selectSpace(int x){}
+    
+    
+    
 }
